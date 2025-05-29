@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "southend",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "867553bf-4cbf-4ec8-a54b-d786229bb590",
+      "database_name": "south DB"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
